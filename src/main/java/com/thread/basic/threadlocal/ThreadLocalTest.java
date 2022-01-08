@@ -1,4 +1,4 @@
-package com.thread.basic;
+package com.thread.basic.threadlocal;
 
 /**
  *  ThreadLocal 提供了线程的本地变量。
